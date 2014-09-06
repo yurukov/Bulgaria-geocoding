@@ -55,7 +55,7 @@ Locations of all RES power plants connected to the grid until Dec 2013. In Bulga
 - vgrad - city/village where the owner is located
 - moshtnost - potential power output
 - vavejdane - date when the plant was built in format ddmmyy
-- geo
+- geo - 2/3 of the coordinates are precise and taked from the RES association. The rest are set close the the city/village marked in Ministry reports
 
 NSI/Ekatte
 ------------------
