@@ -40,3 +40,23 @@ Borders of the regions of each police station in the capital Sofia
 - address - address of the station itself
 - telephone - contacts
 - populationEst - estimated population of the covered area
+
+res_plants.tsv
+------------------
+Locations of all RES power plants connected to the grid until Dec 2013. In Bulgarian.
+- code - identification by the Ministry of economy and energy
+- type - type of power plant
+- firma - company owning the plant
+- bulstat - company identification
+- fobshtina - municipality where the owner is registered
+- fgrad - city/village where the owner is registered
+- vei - name of the RES plant
+- vobshtina - municipality where the owner is located
+- vgrad - city/village where the owner is located
+- moshtnost - potential power output
+- vavejdane - date when the plant was built in format ddmmyy
+- geo
+
+NSI/Ekatte
+------------------
+Original documentation and reference tables for the Ekatte coding system by the National statistics institute
