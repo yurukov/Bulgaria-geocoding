@@ -32,7 +32,7 @@ Borders of each municipality together with metadata
 
 rpu_sofia.geojson
 ------------------
-Borders of the regions of each police station in the capital Sofia
+Borders of the regions of each police station in the capital Sofia. Multipolygons mark only populated places for each reagion. Simple lines encircle the whole territory.
 - name - name of the police station in Bulgarian
 - description - explains the region with bordering streets and neighborhoods plus contact data. In Bulgarian
 - url - website of the station
