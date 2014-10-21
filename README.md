@@ -14,9 +14,12 @@ settlements.csv
 ------------------
 List with all cities, towns and villages in Bulgaria with geo coordinates. Currently 338 locations are missing coordinates
 - EKATTE - Bulgarian region coding system
-- code - classification by the Statistics office
+- municipality code - classification by the Statistics office
+- municipality - name of the municipality
+- province - name of the province
 - village - 0=city,town 1=village
 - name - in Bulgarian
+- postal code - postal code of the settlement
 - geo - coordinages extracted from openstreetmap. Those missing are marked as "n/a"
 
 
