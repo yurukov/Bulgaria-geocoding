@@ -33,6 +33,18 @@ Borders of each municipality together with metadata
 - oblastEn - name in English
 - nuts3 - international region coding system
 
+provinces.geojson & provinces_high.geojson
+------------------
+Borders of each province.
+- ISO - country code
+- NAME_0 - country name
+- NAME_1 - province name in English
+- VARNAME_1 - alternative names separated by "|"
+- NL_NAME_1 - province name in Bulgarian
+- HASC_1 - province code
+- TYPE_1 - area type in Bulgarian
+- ENGTYPE_1 - area type in English
+
 rpu_sofia.geojson
 ------------------
 Borders of the regions of each police station in the capital Sofia. Multipolygons mark only populated places for each reagion. Simple lines encircle the whole territory.
