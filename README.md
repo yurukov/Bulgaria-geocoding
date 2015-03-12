@@ -19,6 +19,10 @@ The shapes do not reflect accurately the actual grounds or their overall size. T
 - ekatte - Bulgarian region coding system
 - contains - a list of ekatte codes of settlements that may reside inside this area
 
+Examples:
+- population distribution in Bulgaria Dec. 2013 https://gist.github.com/yurukov/c4f9ba37b311b53088f1
+- logging permits in Bulgaria Apr. 2011 - Dec. 2014 https://gist.github.com/yurukov/136e144bbd634406054e
+
 settlements.csv
 ------------------
 List with all cities, towns and villages in Bulgaria with size of the grounds of the settlement as well as population as of Dec 2013. For some entities the size of the grounds is missing, which means that it is unknown. For others, it's 0, which means that the settlements does not have it's own grounds, but resides in the grounds of another settlement. The population of many settlements is 0. Some of the names in English are also missing.
