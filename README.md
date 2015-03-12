@@ -12,6 +12,7 @@ A list with all municipalities
 
 settlements.geojson
 ------------------
+![settlements.geojson](screenshots/settlements.geojson.png)
 This is a simplified version of the territorial separation of Bulgaria among the grounds of settlements. While some settlements don't have assigned grounds, they reside inside the grounds of other settlements. In such cases they would be listed in the "contains" array property.
 The shapes do not reflect accurately the actual grounds or their overall size. They do match them within reasonable margin of error, which would be enough for most visualization purposes. More accurate maps can be obtained from the national Cadastre office. 
 - ekatte - Bulgarian region coding system
@@ -42,6 +43,7 @@ Similar to settlements.csv, but lists the names of the municipality and provice,
 
 municipalities.geojson
 ------------------
+![municipalities.geojson](screenshots/municipalities.geojson.png)
 Borders of each municipality together with metadata
 - name - in Bulgarian
 - code - classification by the Statistics office
@@ -52,6 +54,7 @@ Borders of each municipality together with metadata
 
 provinces.geojson & provinces_high.geojson
 ------------------
+![provinces.geojson](screenshots/provinces.geojson.png)
 Borders of each province.
 - ISO - country code
 - NAME_0 - country name
@@ -64,6 +67,7 @@ Borders of each province.
 
 rpu_sofia.geojson
 ------------------
+![rpu_sofia.geojson](screenshots/rpu_sofia.geojson.png)
 Borders of the regions of each police station in the capital Sofia. Multipolygons mark only populated places for each reagion. Simple lines encircle the whole territory.
 - name - name of the police station in Bulgarian
 - description - explains the region with bordering streets and neighborhoods plus contact data. In Bulgarian
