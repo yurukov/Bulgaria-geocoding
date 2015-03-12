@@ -10,9 +10,26 @@ A list with all municipalities
 - code - classification by the Statistics office
 - name - in Bulgarian
 
+settlements.geojson
+------------------
+This is a simplified version of the territorial separation of Bulgaria among the grounds of settlements. While some settlements don't have assigned grounds, they reside inside the grounds of other settlements. In such cases they would be listed in the "contains" array property.
+The shapes do not reflect accurately the actual grounds or their overall size. They do match them within reasonable margin of error, which would be enough for most visualization purposes. More accurate maps can be obtained from the national Cadastre office. 
+- ekatte - Bulgarian region coding system
+- contains - a list of ekatte codes of settlements that may reside inside this area
+
 settlements.csv
 ------------------
-List with all cities, towns and villages in Bulgaria with geo coordinates. Currently 338 locations are missing coordinates
+List with all cities, towns and villages in Bulgaria with size of the grounds of the settlement as well as population as of Dec 2013. For some entities the size of the grounds is missing, which means that it is unknown. For others, it's 0, which means that the settlements does not have it's own grounds, but resides in the grounds of another settlement. The population of many settlements is 0. Some of the names in English are also missing.
+- ekatte - Bulgarian region coding system
+- municipality code - classification by the Statistics office
+- name_bg - name in Bulgarian
+- name_en - name in English
+- area - size of the grounds
+- population - esimates of the Statistics office for Dec 2013
+
+settlements_loc.csv
+------------------
+Similar to settlements.csv, but lists the names of the municipality and provice, as well as geocoordinates of most settlements. For at least 300 the coordinates are missing.  
 - EKATTE - Bulgarian region coding system
 - municipality code - classification by the Statistics office
 - municipality - name of the municipality
