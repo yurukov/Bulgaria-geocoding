@@ -15,7 +15,8 @@ settlements.geojson
 ![settlements.geojson](screenshots/settlements.geojson.png)
 
 This is a simplified version of the territorial separation of Bulgaria among the grounds of settlements. While some settlements don't have assigned grounds, they reside inside the grounds of other settlements. In such cases they would be listed in the "contains" array property.
-The shapes do not reflect accurately the actual grounds or their overall size. They do match them within reasonable margin of error, which would be enough for most visualization purposes. More accurate maps can be obtained from the national Cadastre office. 
+The shapes do not reflect accurately the actual grounds or their overall size. They do match them within reasonable margin of error, which would be enough for most visualization purposes. More accurate maps can be obtained from the national Cadastre office.
+For more information, check http://yurukov.net/blog/2015/03/16/zemlishta/ (in Bulgarian)
 - ekatte - Bulgarian region coding system
 - contains - a list of ekatte codes of settlements that may reside inside this area
 
