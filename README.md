@@ -57,7 +57,7 @@ Borders of each municipality
 - nuts3 - province code
 - nuts4 - municipality code
 
-provinces.geojson & provinces_high.geojson
+provinces.geojson
 ------------------
 ![provinces.geojson](screenshots/provinces.geojson.png)
 
