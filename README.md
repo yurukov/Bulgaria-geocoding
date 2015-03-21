@@ -18,6 +18,8 @@ This is a simplified version of the territorial separation of Bulgaria among the
 The shapes do not reflect accurately the actual grounds or their overall size. They do match them within reasonable margin of error, which would be enough for most visualization purposes. More accurate maps can be obtained from the national Cadastre office.
 For more information, check http://yurukov.net/blog/2015/03/16/zemlishta/ (in Bulgarian)
 - ekatte - Bulgarian region coding system
+- nuts4 - municipality code
+- nuts3 - province code
 - contains - a list of ekatte codes of settlements that may reside inside this area
 
 Examples:
@@ -36,7 +38,7 @@ List with all cities, towns and villages in Bulgaria with size of the grounds of
 
 settlements_loc.csv
 ------------------
-Similar to settlements.csv, but lists the names of the municipality and provice, as well as geocoordinates of most settlements. For at least 300 the coordinates are missing.  
+Similar to settlements.csv, but lists the names of the municipality and provice, as well as geocoordinates of most settlements. For at least 300 the coordinates are missing.
 - EKATTE - Bulgarian region coding system
 - municipality code - classification by the Statistics office
 - municipality - name of the municipality
@@ -51,27 +53,16 @@ municipalities.geojson
 ------------------
 ![municipalities.geojson](screenshots/municipalities.geojson.png)
 
-Borders of each municipality together with metadata
-- name - in Bulgarian
-- code - classification by the Statistics office
-- oblast - name of province in Bulgarian
-- nameEn - name in English
-- oblastEn - name in English
-- nuts3 - international region coding system
+Borders of each municipality
+- nuts3 - province code
+- nuts4 - municipality code
 
 provinces.geojson & provinces_high.geojson
 ------------------
 ![provinces.geojson](screenshots/provinces.geojson.png)
 
-Borders of each province.
-- ISO - country code
-- NAME_0 - country name
-- NAME_1 - province name in English
-- VARNAME_1 - alternative names separated by "|"
-- NL_NAME_1 - province name in Bulgarian
-- HASC_1 - province code
-- TYPE_1 - area type in Bulgarian
-- ENGTYPE_1 - area type in English
+Borders of each province
+- nuts3 - province code
 
 rpu_sofia.geojson
 ------------------
