@@ -1424,6 +1424,7 @@ ekatte,municipality,name_bg,name_en,area,population
 21169,PDV17,Динк,Dink,6118,878
 21172,PAZ14,Динката,Dinkata,13708,1163
 21186,VID09,Динковица,Dinkovitsa,7702,152
+21193,MON07,Динково,,10312,134
 21193,VID33,Динково,Dinkovo,10312,142
 21209,SZR27,Диня,Dinya,14478,174
 21213,SML16,Дирало,,0,49
@@ -1769,7 +1770,9 @@ ekatte,municipality,name_bg,name_en,area,population
 24921,RAZ14,Драгомъж,Dragomazh,7305,358
 24935,PVN24,Дисевица,Disevitsa,12978,895
 24949,HKV34,Долно Големанци,,0,483
+24952,SML18,Дуня,,0,41
 24952,SML18,Дуня,,0,44
+24966,KRZ21,Девинци,,0,123
 24966,KRZ21,Девинци,,0,123
 27019,PVN21,Евлогиево,Evlogievo,13920,92
 27022,BGS12,Евренозово,Evrenozovo,42564,36
@@ -2262,6 +2265,7 @@ ekatte,municipality,name_bg,name_en,area,population
 36556,SML16,Касапско,,0,23
 36566,PER36,Касилаг,Kasilag,11023,50
 36573,HKV09,Каснаково,Kasnakovo,13809,364
+36587,SHU19,Каспичан,,40320,2914
 36587,SHU19,Каспичан,Kaspichan,40320,2987
 36590,SHU19,Каспичан,,0,1420
 36600,GAB29,Кастел,,0,39
@@ -2386,6 +2390,7 @@ ekatte,municipality,name_bg,name_en,area,population
 37914,SOF46,Кокаляне,Kokalyane,15598,1938
 37928,KRZ16,Кокиче,Kokiche,3190,107
 37945,SML31,Кoкорово,,0,22
+37945,SML31,Кокорово,,0,20
 37959,SML27,Кокорци,,0,0
 37962,KRZ16,Кокошане,Kokoshane,6691,21
 37976,VTR13,Колари,,0,4
@@ -2679,6 +2684,7 @@ ekatte,municipality,name_bg,name_en,area,population
 41246,VTR26,Климентово,Klimentovo,19117,707
 41251,PER36,Кошарите,Kosharite,5053,69
 41263,VID09,Кутово,Kutovo,21570,695
+41277,SML18,Крайна,,0,61
 41277,SML18,Крайна,,0,66
 43013,VTR04,Лагерите,,0,1
 43027,VID16,Лагошевци,Lagoshevtsi,17850,58
@@ -3270,6 +3276,7 @@ ekatte,municipality,name_bg,name_en,area,population
 51977,RSE37,Новград,Novgrad,27955,911
 51980,PDV41,Стамболийски,Stamboliyski,14235,11308
 51994,KRZ35,Нови пазар,,0,284
+51994,KRZ35,Нови пазар,,0,286
 52009,SHU22,Нови пазар,Novi pazar,35622,11875
 52012,SFO17,Нови хан,Novi han,47558,2511
 52026,KNL29,Нови чифлик,Novi chiflik,3050,166
@@ -3790,6 +3797,7 @@ ekatte,municipality,name_bg,name_en,area,population
 58637,RSE27,Просена,Prosena,20182,555
 58640,BGS18,Просеник,Prosenik,29726,1404
 58654,VAR26,Просечен,Prosechen,5780,25
+58668,RAZ26,Просторно,,0,163
 58668,RAZ26,Просторно,,0,168
 58671,VID37,Протопопинци,Protopopintsi,10296,38
 58685,DOB27,Професор Златарски,Profesor Zlatarski,15708,40
@@ -3847,6 +3855,7 @@ ekatte,municipality,name_bg,name_en,area,population
 59327,GAB05,Поток,,0,11
 59330,BLG02,Палатик,Palatik,22313,245
 59344,SML11,Пресока,,0,46
+59344,SML11,Пресока,,0,47
 59358,KNL41,Паничище,,0,0
 59361,KRZ21,Прогрес,Progres,3124,305
 59375,PAZ20,Панагюрски колонии,,0,304
@@ -4386,6 +4395,7 @@ ekatte,municipality,name_bg,name_en,area,population
 68062,KNL05,Сопово,Sopovo,4172,35
 68076,LOV36,Сопот,Sopot,37264,163
 68080,PDV43,Сопот,Sopot,36370,8529
+68093,SML27,Сопота,,0,352
 68093,SML27,Сопотот,,0,363
 68103,DOB15,Полковник Иваново,Polkovnik Ivanovo,15485,81
 68117,SLV20,Сотиря,Sotirya,19435,2275
@@ -4924,6 +4934,7 @@ ekatte,municipality,name_bg,name_en,area,population
 78210,SHU23,Хан Крум,Han Krum,5763,351
 78224,VID22,Цар-Петрово,Tsar-Petrovo,44019,269
 78238,SLS34,Цар Самуил,Tsar Samuil,41961,1311
+78241,SML11,Цацаровци,,0,61
 78241,SML11,Цацаровци,,0,64
 78255,SFO16,Цацаровци,Tsatsarovtsi,8674,130
 78269,VTR13,Цвеклювци,,0,0
